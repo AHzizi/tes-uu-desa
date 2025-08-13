@@ -42,7 +42,7 @@ export const UserEntryForm: React.FC = () => {
   return (
     <div className='container mx-auto px-4 py-8 h-full'>
        <h1 className="relative top-10 text-4xl font-bold text-gray-900 dark:text-white text-center shadow-sm font-sans">
-          LATIHAN SOAL TANAH KAS DESA 1
+          LATIHAN SOAL UU DESA I
        </h1>
 
       <div className="min-h-screen bg-gradient-to-br from-sky-50 to-white dark:from-gray-900 dark:to-gray-800 flex items-center justify-center p-4">
